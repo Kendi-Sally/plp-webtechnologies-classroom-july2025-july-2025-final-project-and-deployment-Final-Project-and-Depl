@@ -24,16 +24,5 @@ The project demonstrates the use of **HTML, CSS, and JavaScript** to create a si
 ## ⚙️ Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling  
-- **JavaScript (ES6)** – Interactivity  
+- **JavaScript** – Interactivity  
 
----
-
-## 📸 Screenshots
-(Add screenshots here if you’d like – optional)
-
----
-
-## 📝 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/kendi-sally/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
